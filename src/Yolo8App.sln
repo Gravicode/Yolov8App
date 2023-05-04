@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33417.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yolo8App", "Yolo8App\Yolo8App.csproj", "{4BF4BC86-D92B-4578-B9EE-1E20D154BD28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BF4BC86-D92B-4578-B9EE-1E20D154BD28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BF4BC86-D92B-4578-B9EE-1E20D154BD28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BF4BC86-D92B-4578-B9EE-1E20D154BD28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BF4BC86-D92B-4578-B9EE-1E20D154BD28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {389C5304-5FFD-48CC-B025-0ED82B99CAA5}
+	EndGlobalSection
+EndGlobal
